@@ -1,5 +1,9 @@
 Sticky Notes App
 
+
+https://user-images.githubusercontent.com/64934558/218344109-0ccc750d-1803-4ca5-86b4-602850df8795.mp4
+
+
 A simple and intuitive sticky notes application that lets you jot down quick notes and save them for later.
 
 Features
